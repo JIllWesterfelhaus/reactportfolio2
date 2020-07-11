@@ -6,7 +6,7 @@ import AboutMe from "./components/pages/AboutMe";
 import Portfolio from "./components/pages/Portfolio";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-import './index.css';
+import  "./index.css";
 
 function App() {
   return (

@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Group Project: My Pantry",
-      "image": "./images/My Pantry.png",
+      "image": "./images/MyPantry.png",
       "description": "My Pantry. App for finding recipes based on ingredients the user already has. Group project with Jules Lazar and Mohmed Vaid.",
       "linkToApp": "http://shielded-harbor-38774.herokuapp.com/",
       "linkToRepo": "https://github.com/Hot-Fixers/Project2"
@@ -26,7 +26,7 @@
       {
         "id": 4,
         "title": "Budget Tracker",
-        "image": "./images/Budget Tracker.png",
+        "image": "./images/BudgetTracker.png",
         "description": "Budget Tracker.  App that allows user to input and save transactions whether or not Internet service is available.",
         "linkToApp": "https://mighty-brushlands-36668.herokuapp.com/",
         "linkToRepo": "https://github.com/JIllWesterfelhaus/BudgetTracker"
@@ -34,7 +34,7 @@
       {
         "id": 5,
         "title": "Note Taker",
-        "image": "./images/Note Taker.png",
+        "image": "./images/NoteTaker.png",
         "description": "Note Taker.  App that allows user to create and delete notes.",
         "linkToApp": "https://warm-mesa-71513.herokuapp.com/",
         "linkToRepo": "https://github.com/JIllWesterfelhaus/NoteTaker"
@@ -42,8 +42,8 @@
       {
         "id": 6,
         "title": "Team Roster",
-        "image": "./images/Team Roster.png",
-        "description": "Team Roster.  Creates and displays current information about a work team.  App generates HTML in Node. Click on Link to App to see demonstration video.",
+        "image": "./images/TeamRoster.png",
+        "description": "TeamRoster.  Creates and displays current information about a work team.  App generates HTML in Node. Click on Link to App to see demonstration video.",
         "linkToApp": "https://youtu.be/JygOPosMV5o",
         "linkToRepo": "https://github.com/JIllWesterfelhaus/EmployeeSummary2"
       }

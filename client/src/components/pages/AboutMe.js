@@ -17,9 +17,9 @@ function About() {
 </div>
 <h5 className="text-center">Email:  jillwesthaus@gmail.com</h5>  
     <h5 className="text-center">Phone:  773-592-7923</h5>
-    <h5 className="text-center"><a href="https://www.linkedin.com/in/jill-westerfelhaus-a821761a/">LinkedIn</a></h5>
-    <h5 className="text-center"><a href="https://github.com/JIllWesterfelhaus">GitHub</a></h5>
-    <h5 className="text-center"><a href="https://drive.google.com/file/d/1uI29ld_OinWKOvuB_AKhaZKmx78qHQEb/view?usp=sharing">Resume</a></h5>   
+    <h5 className="text-center"><a href="https://www.linkedin.com/in/jill-westerfelhaus-a821761a/" target="_blank">LinkedIn</a></h5>
+    <h5 className="text-center"><a href="https://github.com/JIllWesterfelhaus" target="_blank">GitHub</a></h5>
+    <h5 className="text-center"><a href="https://drive.google.com/file/d/1uI29ld_OinWKOvuB_AKhaZKmx78qHQEb/view?usp=sharing" target="_blank">Resume</a></h5>   
 </div>
 ); 
   }

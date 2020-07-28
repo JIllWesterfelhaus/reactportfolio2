@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Flix: Movies and TV When You Want ",
     "image": "./images/flix.png",
-    "description": "Flix. Look up what streaming services have desired movies and TV shows.  Also save favorites.  Group project with Tressa Park and Bikram Shankhar.",
+    "description": "Flix. Look up desired movies and TV shows to see what streaming services offer them, and save favorites.  Group project with Tressa Park and Bikram Shankhar.",
     "linkToApp": "https://movie-tracker-user.herokuapp.com/",
     "linkToRepo": "https://github.com/flix-project/flix"
   },

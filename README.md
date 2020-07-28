@@ -18,7 +18,7 @@ This project is in the public domain per https://unlicense.org/.
 
 https://sleepy-fjord-66000.herokuapp.com/
 
-![home page portfolio](./client/public/images/home%20page%20portfolio.png)
+![home page portfolio](./client/public/images/homepageportfolio.png)
 
 
 ## Credits

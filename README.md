@@ -25,8 +25,10 @@ https://sleepy-fjord-66000.herokuapp.com/
 
 Thanks to Nick Elliot, my instructor; and Chris McLaughlin, TA, for helping me with the code.  I also want to thank Alex Bailon and Jee Zhou for helping me create clickable links on the portfolio page. 
 
-Thanks to Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Resurreccion for the amazing job they did coding the Flyte! app.
+Thanks to Alex Bailon, Bikram Shankhar, Zaki Khan and Kyle Resurreccion for the amazing job they did coding the Flyte! app.
 
 Thanks to Jules Lazar and Mohmed Vaid for the awesome work they did on the My Pantry app.
+
+Thanks to Tressa Park and Bikram Shankhar for their work on the Flix app.
 
 I would especially like to thank my tutor, Daniel Masters, for his patience and persistence while working with me during the coding bootcamp. 

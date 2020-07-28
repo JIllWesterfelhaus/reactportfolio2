@@ -1,4 +1,12 @@
 [
+  {
+    "id": 0,
+    "title": "Flix: Movies and TV When You Want ",
+    "image": "./images/flix.png",
+    "description": "Flix. Look up what streaming services have desired movies and TV shows.  Also save favorites.  Group project with Tressa Park and Bikram Shankhar.",
+    "linkToApp": "https://movie-tracker-user.herokuapp.com/",
+    "linkToRepo": "https://github.com/flix-project/flix"
+  },
     {
       "id": 1,
       "title": "Group Project: My Pantry",
@@ -11,7 +19,7 @@
         "id": 2,
         "title": "Group Project: Flyte!",
         "image": "./images/Flyte.png",
-        "description": "Flyte! Stock news and price app. Group project with Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Resurreccion.",
+        "description": "Flyte! Stock news and price app. Group project with Alex Bailon, Bikram Shankhar, Zaki Khan and Kyle Resurreccion.",
         "linkToApp": "https://kyleres.github.io/Finance_App/",
         "linkToRepo": "https://github.com/kyleres/Finance_App"
       },

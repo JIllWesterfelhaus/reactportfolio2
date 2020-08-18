@@ -17,6 +17,9 @@ function Project(props) {
             {props.description}
           </li>
           <li>
+            {props.tech}
+          </li>
+          <li>
             <a href={props.linkToApp} target="_blank" >Link to App</a>
           </li>
           <li>

@@ -8,6 +8,7 @@ function Portfolio() {
       title={project.title}
       image={project.image}
       description={project.description}
+      tech={project.tech}
       linkToApp={project.linkToApp}
       linkToRepo={project.linkToRepo}
       />

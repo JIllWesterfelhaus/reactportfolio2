@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "title": "Flix: Movies and TV When You Want ",
+    "title": "Group Project: Flix: Movies and TV When You Want ",
     "image": "./images/flix.png",
     "description":"App to look up desired movies and TV shows to see what streaming services offer them, and also to save favorites.  Group project with Tressa Park and Bikram Shankhar.",
     "tech": "Tech: React, React Router, Express, Node, MongoDB, Redux, Material UI.",

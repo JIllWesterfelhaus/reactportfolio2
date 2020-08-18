@@ -11,6 +11,11 @@ function Home() {
         </div>
         
         <h5 className="text-center">I am a recent graduate of Northwestern University's Coding Bootcamp, where I studied Full Stack Web Development.</h5>  
+
+      <h5 className="text-center">My skills include HTML, CSS, Bootstrap, Javascript, JQuery, Node, Express, mySQL, Mongo, and React. I have a background in photography and I love working with Photoshop.</h5>
+
+      <h5 className="text-center">I am currently an intern at <a href="https://www.queensweb.org/" target="_blank">Queen's Webs.</a></h5>
+
     <h5 className="text-center">Please take a look around and see what I learned!</h5>
       
       </div>

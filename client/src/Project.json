@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Flix: Movies and TV When You Want ",
     "image": "./images/flix.png",
-    "description": "Look up desired movies and TV shows to see what streaming services offer them, and save favorites.  Group project with Tressa Park and Bikram Shankhar. Tech: React, React Router, Express, Node, MongoDB, Redux, Material UI.",
+    "description": "Look up desired movies and TV shows to see what streaming services offer them, and save favorites.  Group project with Tressa Park and Bikram Shankhar. Tech used: React, React Router, Express, Node, MongoDB, Redux, Material UI.",
     "linkToApp": "https://movie-tracker-user.herokuapp.com/",
     "linkToRepo": "https://github.com/flix-project/flix"
   },
@@ -11,7 +11,7 @@
       "id": 1,
       "title": "Group Project: My Pantry",
       "image": "./images/MyPantry.png",
-      "description": "App for finding recipes based on ingredients the user already has. Group project with Jules Lazar and Mohmed Vaid.",
+      "description": "App for finding recipes based on ingredients the user already has. Group project with Jules Lazar and Mohmed Vaid. Tech used: API for recipes: Spoonacular; Sequelize, MySQL, Passport, Bulma, Express, Express Handlebars, ESLint, Travis.",
       "linkToApp": "http://shielded-harbor-38774.herokuapp.com/",
       "linkToRepo": "https://github.com/Hot-Fixers/Project2"
     },

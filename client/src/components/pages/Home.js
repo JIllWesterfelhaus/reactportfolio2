@@ -12,11 +12,11 @@ function Home() {
 
       <h5 className="text-center">I am a recent graduate of Northwestern University's Full Stack Web Development Coding Bootcamp.</h5>
 
-      <h5 className="text-center">My skills include HTML, CSS, Bootstrap, Responsive Design, Javascript, JQuery, Node, Express, mySQL, Mongo, PWA's, React and Photoshop.</h5>
+      <h5 className="text-center">I love creating.  I have a Bachelor of Fine Arts degree and I have worked processing photographic film and prints.  Seeing a website come to life is so exciting, similar to watching a photograph develop.  I also love the power of web development.  With a web site, it is possible to reach anyone in the world immediately.  This combination of creativity and impact makes me want to succeed in web development.</h5>
 
       <h5 className="text-center">I am currently a software engineering intern at <a href="https://www.queensweb.org/" target="_blank">Queen's Web.</a>  Queen’s Web empowers women worldwide by providing professional opportunities for ongoing efforts to diversify the technology industry.</h5>
 
-      <h5 className="text-center">Please take a look around and see what I learned!</h5>
+      <h5 className="text-center">Technical Skills: HTML, CSS, Bootstrap, Responsive Design, Javascript, JQuery, Node, Express, mySQL, Mongo, PWA's, React, Photoshop, Firebase, React Native.</h5>
 
       <h5 className="text-center">Email:  jillwesthaus@gmail.com</h5>
       <h5 className="text-center">Phone:  773-592-7923</h5>

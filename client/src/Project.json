@@ -28,15 +28,6 @@
   },
   {
     "id": 4,
-    "title": "Budget Tracker",
-    "image": "./images/BudgetTracker.png",
-    "description": "PWA app that allows user to input and save transactions whether or not Internet service is available.",
-    "tech": "Tech:  Manifest, Service Worker and Javascript to cache transactions.",
-    "linkToApp": "https://mighty-brushlands-36668.herokuapp.com/",
-    "linkToRepo": "https://github.com/JIllWesterfelhaus/BudgetTracker"
-  },
-  {
-    "id": 5,
     "title": "Note Taker",
     "image": "./images/NoteTaker.png",
     "description": "App that allows user to create and delete notes.",
@@ -45,7 +36,7 @@
     "linkToRepo": "https://github.com/JIllWesterfelhaus/NoteTaker"
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "Team Roster",
     "image": "./images/TeamRoster.png",
     "description": "App that creates and displays current information about a work team.  App generates HTML in Node. Click on Link to App to see demonstration video.",

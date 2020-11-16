@@ -19,7 +19,7 @@ function About() {
             <h5 className="text-center">Phone:  773-592-7923</h5>
             <h5 className="text-center"><a href="https://www.linkedin.com/in/jill-westerfelhaus-a821761a/" target="_blank">LinkedIn</a></h5>
             <h5 className="text-center"><a href="https://github.com/JIllWesterfelhaus" target="_blank">GitHub</a></h5>
-            <h5 className="text-center"><a href="https://drive.google.com/file/d/1tyKfZnJ_0xG995rhONw0FYjxxRgFtOdP/view?usp=sharing" target="_blank">Resume</a></h5>
+            <h5 className="text-center"><a href="https://drive.google.com/file/d/1UE8n5gJycg5leh5uZW_OrEg0xy3xH8sH/view?usp=sharing" target="_blank">Resume</a></h5>
         </div>
     );
 }

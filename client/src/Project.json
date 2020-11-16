@@ -1,5 +1,14 @@
 [
   {
+    "id": 0,
+    "title": "Sheffield Belmont",
+    "image": "./images/aboutme.png",
+    "description": "Web site for Sheffield Belmont, Chicago based performer.",
+    "tech": "Tech: HTML, CSS, Bootstrap.",
+    "linkToApp": "https://sheffieldbelmont.com",
+    "linkToRepo": "https://github.com/JIllWesterfelhaus/SheffieldBelmont"
+  },
+  {
     "id": 1,
     "title": "Group Project: My Pantry",
     "image": "./images/MyPantry.png",
